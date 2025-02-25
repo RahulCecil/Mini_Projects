@@ -1,8 +1,8 @@
+### Script to simulate a Rock, Paper, Scissors Tournament with randomized outcomes ###
+### Designed to help a friend set up a tournament online and predict how long it would possibly take if played by his set of rules ####
+
 import numpy as np
 import matplotlib.pyplot as plt
-
-#def contestants(n_con, n_days):
-#       return n_con * (1/2)**n_days
 
 ### Initial Parameters ###
 n_con = 50
